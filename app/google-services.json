@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571200894570",
+    "firebase_url": "https://app-prot.firebaseio.com",
+    "project_id": "app-prot",
+    "storage_bucket": "app-prot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571200894570:android:e1946a43b7f0109b977c13",
+        "android_client_info": {
+          "package_name": "com.despe.appprot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571200894570-0kdshl8fqrkrmknfoipasv66f1f61g6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCklmjjUpi2ZZaKSZwamNgy377Gusvzv9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571200894570-0kdshl8fqrkrmknfoipasv66f1f61g6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

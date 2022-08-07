@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Réglage Prothèse</string>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="connection_succeed">Connection Succeed</string>
+    <string name="error_authentification_canceled">Error : Authentification canceled</string>
+    <string name="error_no_internet">Error : No Internet</string>
+    <string name="error_unknown_error">Error : Unknown Error</string>
+    <string name="toolbar_title_login_activity">Login Page</string>
+    <string name="info_no_email_found">Erreur : Pas de mail associé</string>
+    <string name="info_no_username_found">Erreur : Pas de nom utilisateur associé</string>
+    <string name="button_login_text_logged">Bienvenue</string>
+    <string name="button_login_text_not_logged">Identifiez vous</string>
+    <string name="popup_message_confirmation_delete_account">Voulez-vous supprimer votre compte ?</string>
+    <string name="popup_message_choice_yes">Oui</string>
+    <string name="popup_message_choice_no">Non</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

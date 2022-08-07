@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/onglet_profil"
+        app:showAsAction="always"
+        android:title="Profil"></item>
+
+    <item
+        android:id="@+id/onglet_affichage"
+        app:showAsAction="always"
+        android:title="Affichage"></item>
+
+    <item
+        android:id="@+id/onglet_historique"
+        app:showAsAction="always"
+        android:title="Historique"></item>
+
+</menu>

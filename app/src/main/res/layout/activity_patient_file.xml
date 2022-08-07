@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 1 | Add TabLayout to handle tabs -->
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/activity_patient_file_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#B6C9F1"
+        app:tabIndicatorColor="@color/colorPrimary"
+        app:tabTextColor="#D4E0F8"
+        app:tabSelectedTextColor="#fff"/>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/activity_patient_file_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <fragment
+            android:id="@+id/fragmentprofile"
+            android:name="com.despe.appprot.FragmentProfil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </androidx.viewpager.widget.ViewPager>
+
+</LinearLayout>
